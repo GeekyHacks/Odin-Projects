@@ -2,8 +2,24 @@ section{
     background-color: aquamarine;
 }
 
+body{
+  color: bisque;
+}
+.font{
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    background-color: aqua;
+}
 div{
     background-color: aqua;
-    color: black;
+
     display: flex;
+    font-size: 150px;
+   
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    text-align: center;
+    color: black;
+    text-decoration: solid;
 }
